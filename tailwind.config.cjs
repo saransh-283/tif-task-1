@@ -1,11 +1,11 @@
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
-    screens: {
-      sm: "375px",
-      lg: "1440px",
-    },
     extend: {
+      screens: {
+        sm: "375px",
+        lg: "1440px",
+      },
       fontFamily: {
         source: ["Source Sans Pro", "sans-serif"],
         open: ["Open Sans", "sans-serif"],

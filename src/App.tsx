@@ -1,9 +1,11 @@
 import { Fragment } from 'react'
-import './App.css'
+import Hero from './sections/Hero'
 
 function App() {
   return (
-    <Fragment></Fragment>
+    <Fragment>
+      <Hero />
+    </Fragment>
   )
 }
 

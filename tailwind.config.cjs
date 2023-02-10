@@ -6,6 +6,11 @@ module.exports = {
       lg: "1440px",
     },
     extend: {
+      fontFamily: {
+        source: ["Source Sans Pro", "sans-serif"],
+        open: ["Open Sans", "sans-serif"],
+        poppins: ["Poppins", "sans-serif"]
+      },
       colors: {
         "brand-orange": "#E23744",
         "brand-blue": "#0E2368",

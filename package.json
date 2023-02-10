@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fontsource/open-sans": "^4.5.14",
+    "@fontsource/poppins": "^4.5.10",
+    "@fontsource/source-sans-pro": "^4.5.11",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
